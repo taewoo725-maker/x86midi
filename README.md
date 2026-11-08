@@ -1,5 +1,7 @@
 # X86MIDI
 
+**한국어** | [English](README.en.md)
+
 MSX-DOS2 / Nextor에서 동작하는 **MIDI(.mid) 파일 재생 프로그램**입니다.
 X86MSX(PC용 MSX 에뮬레이터)와 MSX2 이상 기종(turbo R 포함)에서 실행하도록 Z80 어셈블리로 작성했습니다.
 
